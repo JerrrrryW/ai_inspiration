@@ -1,0 +1,31 @@
+﻿task,id,prompt,generated imgs filename,,,,,
+sink,s1,"Innovative modern kitchen sink design, blending cutting-edge technology with elegant style.",s1_1,s1_2,,,,
+sink,s2,Futuristic bathroom sink with smart temperature control and automatic cleaning features.,s2_1,s2_2,,,,
+sink,s3,Eco-friendly outdoor sink design using renewable materials and rainwater harvesting system.,s3_1,s3_2,,,,
+sink,s4,Child-friendly colorful sink design with interactive games and safety features.,s4_1,s4_2,,,,
+sink,s5,Minimalist sink design emphasizing clean lines and functionality.,s5_1,s5_2,,,,
+sink,s6,Innovative kitchen accessories designed to perfectly complement modern sinks.,s6_1,s6_2,,,,
+sink,s7,Outdoor garden sink design integrating natural elements with practical functionality.,s7_1,s7_2,,,,
+sink,s8,Industrial-style stainless steel sink suitable for modern kitchens and restaurants.,s8_1,s8_2,,,,
+sink,s9,Portable camping sink design for outdoor activities and travel.,s9_1,s9_2,,,,
+sink,s10,Artistic decorative sink for luxury bathrooms and spas.,s10_1,s10_2,,,,
+bed,b1,"Modern smart bed for home automation, integrating health monitoring and environmental control systems.",b1_1,b1_2,b1_3,b1_4,b1_5,b1_6
+bed,b2,Space-themed children's bed design with starry projections and astronaut dream elements.,b2_1,b2_2,b2_3,b2_4,b2_5,b2_6
+bed,b3,"Multi-functional bed for small spaces, including storage and transformable furniture design.",b3_1,b3_2,b3_3,b3_4,b3_5,b3_6
+bed,b4,Naturalistic bed design using sustainable materials and plant elements.,b4_1,b4_2,b4_3,b4_4,b4_5,b4_6
+bed,b5,Luxurious artistic bed design showcasing unique visual aesthetics and craftsmanship.,b5_1,b5_2,b5_3,b5_4,b5_5,b5_6
+bed,b6,Creative headboard designs that combine storage and decorative functions.,b6_1,b6_2,b6_3,b6_4,b6_5,b6_6
+bed,b7,Modern foldable bed design suitable for small apartments and studios.,b7_1,b7_2,b7_3,b7_4,b7_5,b7_6
+bed,b8,Luxury hotel-style bed with premium bedding and elegant decorations.,b8_1,b8_2,b8_3,b8_4,b8_5,b8_6
+bed,b9,"Children's adventure-themed bed, including playful elements and interactive design.",b9_1,b9_2,b9_3,b9_4,b9_5,b9_6
+bed,b10,Tranquil Zen-inspired bed design using natural materials and minimalist style.,b10_1,b10_2,b10_3,b10_4,b10_5,b10_6
+sink,s11,Ultra-modern glass sink with LED lighting and touch-sensitive controls,s11_1,s11_2,,,,
+sink,s12,Rustic farmhouse-style kitchen sink in copper with antique finish.,s12_1,s12_2,,,,
+sink,s13,"Compact corner sink design for small bathrooms, featuring space-saving solutions.",s13_1,s13_2,,,,
+sink,s14,High-tech sink with integrated digital water purifier and temperature display.,s14_1,s14_2,,,,
+sink,s15,Elegant pedestal sink with intricate floral patterns for classic interior designs,s15_1,s15_2,,,,
+sink,s16,"Sleek wall-mounted sink with hidden plumbing, perfect for minimalist decors.",s16_1,s16_2,,,,
+sink,s17,Innovative sink with built-in compost system for eco-friendly kitchens.,s17_1,s17_2,,,,
+sink,s18,Luxurious marble sink with gold accents for opulent bathroom designs,s18_1,s18_2,,,,
+sink,s19,Smart sink with voice-activated faucets and self-cleaning technology.,s19_1,s19_2,,,,
+sink,s20,Creative bar sink design with built-in wine cooler and glass holders,s20_1,s20_2,,,,
